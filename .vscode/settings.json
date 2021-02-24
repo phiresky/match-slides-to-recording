@@ -1,0 +1,4 @@
+{
+    "python.formatting.provider": "black",
+    "python.pythonPath": "/home/tehdog/.cache/pypoetry/virtualenvs/match-slides-to-recording-Z7b14OJM-py3.9/bin/python"
+}
